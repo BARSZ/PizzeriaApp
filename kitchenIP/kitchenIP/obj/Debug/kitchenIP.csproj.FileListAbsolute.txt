@@ -1,0 +1,19 @@
+C:\Users\krish\source\repos\kitchenIP\kitchenIP\bin\Debug\kitchenIP.exe.config
+C:\Users\krish\source\repos\kitchenIP\kitchenIP\bin\Debug\kitchenIP.exe
+C:\Users\krish\source\repos\kitchenIP\kitchenIP\bin\Debug\kitchenIP.pdb
+C:\Users\krish\source\repos\kitchenIP\kitchenIP\obj\Debug\kitchenIP.csprojAssemblyReference.cache
+C:\Users\krish\source\repos\kitchenIP\kitchenIP\obj\Debug\kitchenIP.Form1.resources
+C:\Users\krish\source\repos\kitchenIP\kitchenIP\obj\Debug\kitchenIP.Properties.Resources.resources
+C:\Users\krish\source\repos\kitchenIP\kitchenIP\obj\Debug\kitchenIP.csproj.GenerateResource.cache
+C:\Users\krish\source\repos\kitchenIP\kitchenIP\obj\Debug\kitchenIP.exe
+C:\Users\krish\source\repos\kitchenIP\kitchenIP\obj\Debug\kitchenIP.pdb
+C:\git repos\IntroProject\kitchenIP\kitchenIP\bin\Debug\kitchenIP.exe.config
+C:\git repos\IntroProject\kitchenIP\kitchenIP\bin\Debug\kitchenIP.exe
+C:\git repos\IntroProject\kitchenIP\kitchenIP\bin\Debug\kitchenIP.pdb
+C:\git repos\IntroProject\kitchenIP\kitchenIP\obj\Debug\kitchenIP.csprojAssemblyReference.cache
+C:\git repos\IntroProject\kitchenIP\kitchenIP\obj\Debug\kitchenIP.Form1.resources
+C:\git repos\IntroProject\kitchenIP\kitchenIP\obj\Debug\kitchenIP.Properties.Resources.resources
+C:\git repos\IntroProject\kitchenIP\kitchenIP\obj\Debug\kitchenIP.csproj.GenerateResource.cache
+C:\git repos\IntroProject\kitchenIP\kitchenIP\obj\Debug\kitchenIP.csproj.CoreCompileInputs.cache
+C:\git repos\IntroProject\kitchenIP\kitchenIP\obj\Debug\kitchenIP.exe
+C:\git repos\IntroProject\kitchenIP\kitchenIP\obj\Debug\kitchenIP.pdb
